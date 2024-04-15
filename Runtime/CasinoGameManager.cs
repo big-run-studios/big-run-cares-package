@@ -7,6 +7,7 @@ namespace BR.Blackjack
     public class CasinoGameManager : MonoBehaviour
     {
         [SerializeField]
+        // text mesh pro field
         TMPro.TextMeshProUGUI lastUserActionText;
 
         // Start is called before the first frame update
